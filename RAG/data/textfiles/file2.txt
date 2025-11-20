@@ -1,0 +1,4 @@
+K-means clustering is an unsupervised machine learning algorithm used to group data points into 
+    K distinct clusters based on similarity. It works by repeatedly assigning points to the nearest cluster center and then updating the 
+    centers until the groups stabilize. This method is widely used in customer segmentation, image compression, and pattern recognition 
+    because it is simple, fast, and effective for large datasets.
